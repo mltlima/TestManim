@@ -1,0 +1,2 @@
+# TestManim
+Testing manim functionalities
